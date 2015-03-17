@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+  <Token>
+    <TokenIdentifier>
+      <Name>QS</Name>
+      <APILanguage>c</APILanguage>
+      <Type>func</Type>
+    </TokenIdentifier>
+    <Path>function_8h.html</Path>
+    <Anchor>aee191d48b965f7578948e1efc7a1bb7b</Anchor>
+    <DeclaredIn>function.h</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>main</Name>
+      <APILanguage>c</APILanguage>
+      <Type>func</Type>
+    </TokenIdentifier>
+    <Path>main_8cpp.html</Path>
+    <Anchor>ae66f6b31b5ad750f1fe042a706a4e3d4</Anchor>
+    <DeclaredIn>main.cpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>print</Name>
+      <APILanguage>c</APILanguage>
+      <Type>func</Type>
+    </TokenIdentifier>
+    <Path>main_8cpp.html</Path>
+    <Anchor>af56c08a45c7259d506f3796102f4d081</Anchor>
+    <Abstract>программа для быстрой сортировки массива </Abstract>
+    <DeclaredIn>main.cpp</DeclaredIn>
+  </Token>
+</Tokens>
